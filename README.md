@@ -1,3 +1,4 @@
+# coding_adventures
 # A collection of coding adventures, experiments, and learning projects
 
 import random
