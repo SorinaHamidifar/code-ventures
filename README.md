@@ -22,7 +22,7 @@ def fibonacci(n=10):
         seq.append(seq[-1] + seq[-2])
     print(seq)
 
-    def 
+    def main(): 
     while True:
         print("\n🚀 Coding Adventures Menu")
         print("1. Hello World")
