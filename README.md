@@ -12,7 +12,6 @@ def number_guessing_game():
     guess = int(input("Guess a number between 1 and 10: "))
     if guess == secret:
         print("✅ Correct! You guessed it.")
-    else:
         print(f"❌ Oops! The number was {secret}.")
 
 def fibonacci(n=10):
