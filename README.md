@@ -20,7 +20,7 @@ def fibonacci(n=10):
     seq = [0, 1]
     while len(seq) < n:
         seq.append(seq[-1] + seq[-2])
-    print(seq
+    print(seq)
 
     def main(): 
     while True:
