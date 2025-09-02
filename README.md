@@ -16,7 +16,7 @@ def number_guessing_game():
         print(f"❌ Oops! The number was {secret}.")
 
 def fibonacci(n=10):
-    print(f"🔢 First {n} Fibonacci numbers:")
+    print(f"🔢 First {n} Fibonaci numbers:")
     seq = [0, 1]
     while len(seq) < n:
         seq.append(seq[-1] + seq[-2])
