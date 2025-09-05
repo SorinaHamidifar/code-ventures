@@ -3,7 +3,7 @@
 
 import random 
 
-def helloo_world():
+def hello_world():
     print("👋 Hello, World! The classic first adventure.")
 
 def number_guessing_game():
