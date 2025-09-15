@@ -19,7 +19,7 @@ def fibonacci(n=10):
     print(f"🔢 First {n} Fibonacci numbers:")
     seq = [0, 1]
     while len(seq) < n:
-        seq.append(seq[-1] + seq[-2])
+        seq.append(seq[-1] + 
     print(seq)
 
     def main(): 
