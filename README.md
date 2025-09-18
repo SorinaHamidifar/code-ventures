@@ -45,5 +45,4 @@ def fibonacci(n=10):
             print("Invalid choice. Try again!")
 
 if __name__ == "__main__":
-    main()
 
