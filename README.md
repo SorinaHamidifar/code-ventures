@@ -44,7 +44,7 @@ def fibonacci(n=10):
         else:
             print("Invalid choice. Try again!")
 
-if __name__ == "__main__":
+if __name__ == "__mai__":
     main()
 
 
