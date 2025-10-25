@@ -46,6 +46,5 @@ def fibonacci(n=10):
 
 if __name__ == "__main__":
     main()
-        print(f"❌ Oops! The number was {secret}.")
 
 
