@@ -1,5 +1,5 @@
 # @coding_adventures.py
-# A collection of coding adventures, experiments, and learning projects
+# A collection of coding adventures, experiments, and learning projects?
 
 import random
 
