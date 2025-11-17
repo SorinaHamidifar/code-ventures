@@ -4,7 +4,7 @@
 import random
 
 def hello_world():
-    print("👋 Hello, World! The classi first adventure.")
+    print("👋 Hello, World! The classiks first adventure.")
 
 def number_guessing_game():
     print("🎲 Number Guessing Game")
