@@ -13,7 +13,7 @@ def number_guessing_game():
     if guess == secret:
         print("✅ Correct! You guessed it.")
     else:
-        print(f"❌ Oops! The numbers were {secret}.")
+        print(f"❌ Oops! The numbers w {secret}.")
 
 def fibonacci(n=10):
     print(f"🔢 First {n} Fibonacci numbers:")
