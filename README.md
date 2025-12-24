@@ -1,7 +1,7 @@
 # coding_adventures.py
 # A collection of coding adventures, experiments, and learning projects
 
-import randomiz
+import random
 
 def hello_world():
     print("👋 Hello, World! The classic first adventure.")
