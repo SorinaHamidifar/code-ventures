@@ -6,7 +6,7 @@ import random
 def hello_world():
     print("👋 Hello, World! The classic first adventure.")
 
-def number_():
+def number_guess():
     print("🎲 Number Guessing Game")
     secret = random.randint(1, 10)
     guess = int(input("Guess a number between 1 and 10: "))
