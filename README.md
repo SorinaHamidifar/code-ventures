@@ -24,7 +24,7 @@ def fibonacci(n=10):
 
     def main(): 
     while True:
-        print("\n🚀 Coding  Menu")
+        print("\n🚀 Coding Ad Menu")
         print("1. Hello World")
         print("2. Number Guessing Game")
         print("3. Fibonacci Sequence")
