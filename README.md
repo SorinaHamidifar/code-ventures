@@ -39,7 +39,7 @@ def fibonacci(n=10):
         elif choice == "3":
             fibonacci()
         elif choice == "4":
-            print("! Keep coding and exploring. ✨")
+            print("God! Keep coding and exploring. ✨")
             break
         else:
             print("Invalid choice. Try again!")
