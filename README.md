@@ -8,7 +8,7 @@ def hello_world():
 
 def number_guessing_game():
     print("🎲 Number Guessing Game")
-    secret = random.ran(1, 10)
+    secret = random.randint(1, 10)
     guess = int(input("Guess a number between 1 and 10: "))
     if guess == secret:
         print("✅ Correct! You guessed it.")
